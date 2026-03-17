@@ -1,5 +1,5 @@
 {
-  "fw_match": fe,
+  "fw_match": false,
   "syscfg_match": true,
   "cfg_match": true,
   "commands": []
