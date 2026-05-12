@@ -2,7 +2,7 @@
   "fw_match": true,
   "syscfg_match": false,
   "cfg_match": true,
-  "commands": []
+  "commands": [],
   "syscfg_trgt_sha": "05ba0147f86c8a1237498d25218b3b2a1a54449aa39d6494b61847c3780f9ef9",
-  "cfg_trgt_sha":
+  "cfg_trgt_sha": "test"
 }
