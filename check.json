@@ -3,6 +3,6 @@
   "syscfg_match": false,
   "cfg_match": true,
   "commands": [],
-  "syscfg_trgt_sha": "65481e7868cc21e07817b3dae6d34a663f7313414ff136d69fc905776cd60f93",
+  "syscfg_trgt_sha": "9ef69e8bb1dc58a3d48456da341e4ffd23f2bdf2bd14332a70b64ba950cb680c",
   "cfg_trgt_sha": "test"
 }
