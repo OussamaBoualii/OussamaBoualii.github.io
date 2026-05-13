@@ -1,10 +1,11 @@
 {
   "format": "json",
-  "schema_ver": 3,
+  "schema_ver": 4,
   "endpoint_ota_check": "https://oussamaBoualii.github.io/check.json",
   "endpoint_ota_post": "https://ingest.colibri-control.app/ingest",
+  "endpoint_post_old": "https://eofkcl3aenbgegv.m.pipedream.net",
   "endpoint_ota_fw": "https://raw.githubusercontent.com/OussamaBoualii/OTA-Telmetry/main/HyperFrankie7.bin",
-  "ota_check_period_s": 42,
+  "ota_check_period_s": 20,
   "http_timeout_ms": 40000,
   "reserved": {}
 }
