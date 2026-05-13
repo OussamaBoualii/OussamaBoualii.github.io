@@ -6,7 +6,7 @@
       "id": 1002,
       "type": "telemetry",
       "cmd": "set_interval",
-      "value": 40
+      "value": 8
     }],
   "syscfg_trgt_sha": "",
   "cfg_trgt_sha": ""
