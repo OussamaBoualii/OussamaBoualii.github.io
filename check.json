@@ -2,7 +2,17 @@
   "fw_match": true,
   "syscfg_match": true,
   "cfg_match": true,
-  "commands": [],
+  "commands": [
+    {
+      "id": 1001,
+      "cmd": "reboot"
+    },
+    {
+      "id": 1002,
+      "cmd": "set_interval",
+      "value": 30
+    }
+  ],
   "syscfg_trgt_sha": "",
   "cfg_trgt_sha": ""
 }
