@@ -8,6 +8,6 @@
       "cmd": "set_interval",
       "value": 8
     }],
-  "syscfg_trgt_sha": "20d98380f7736b87608600a7359035ffe81b025f91811b3f70171f5b5f723be3",
+  "syscfg_trgt_sha": "f9392622379b3ff776bfe8e7d772b4ad9928354bc94c8bcb199c8f18859e8f7c",
   "cfg_trgt_sha": ""
 }
