@@ -4,7 +4,6 @@
   "cfg_match": true,
   "commands": [  {
       "id": 1002,
-      "type": "telemetry",
       "cmd": "set_interval",
       "value": 8
     }],
