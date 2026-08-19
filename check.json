@@ -5,7 +5,7 @@
    "commands": [    {
       "id": 1002,
       "cmd": "set_interval",
-      "value": 40
+      "value": 40000
     }
 ],
   "syscfg_trgt_sha": "05ec617c7612beddb858be759f1ac83af7bc76115d506da5c4ea3900ad8cb1ed",
