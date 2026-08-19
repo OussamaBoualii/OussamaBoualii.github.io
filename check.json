@@ -5,7 +5,7 @@
    "commands": [    {
       "id": 1002,
       "cmd": "set_interval",
-      "value": 40
+      "value": 40000
     }
     
 ],
