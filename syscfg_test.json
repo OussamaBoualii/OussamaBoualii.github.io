@@ -7,6 +7,6 @@
   "endpoint_ota_post": "http://178.156.185.230:6690/status",
   "endpoint_ota_fw": "https://raw.githubusercontent.com/OussamaBoualii/OTA-Telmetry/main/HyperFrankie5.bin",
   "endpoint_syscfg": "https://oussamaBoualii.github.io/syscfg_test.json",
-  "ota_check_period_s": 21,
+  "ota_check_period_s": 10,
   "reserved": {}
 }
