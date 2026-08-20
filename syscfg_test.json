@@ -4,7 +4,7 @@
   "endpoint_ota_check": "http://178.156.185.230:6690/check",
   "endpoint_post_data": "https://ingest.colibri-control.app/ingest",
   "endpoint_post_old": "http://control.colibri-energy.com/lio/t63v5.php",
-  "endpoint_ota_post": "https://eofkcl3aenbgegv.m.pipedream.net",
+  "endpoint_ota_post": "http://178.156.185.230:6690/status",
   "endpoint_ota_fw": "https://raw.githubusercontent.com/OussamaBoualii/OTA-Telmetry/main/HyperFrankie5.bin",
   "endpoint_syscfg": "https://oussamaBoualii.github.io/syscfg_test.json",
   "ota_check_period_s": 21,
