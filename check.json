@@ -3,11 +3,7 @@
   "syscfg_match": false,
   "cfg_match": true,
    "commands":[ 
-    {
-      "id": 1002,
-      "cmd": "set_interval",
-      "value": 40000
-    }
+
 ],
   "syscfg_trgt_sha": "f82a9e769b29a64cfef12d6c7d77451c86ca228720dec65e89c3eabe2898b784",
   "cfg_trgt_sha": ""
