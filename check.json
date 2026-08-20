@@ -1,14 +1,17 @@
 {
   "fw_match": true,
-  "syscfg_match": false,
-  "cfg_match": true,
-   "commands": [    {
+  "syscfg_match": false  ,
+  "cfg_match": true ,
+  
+   "commands": 
+  [    {
       "id": 1002,
       "cmd": "set_interval",
       "value": 40000
     }
     
 ],
-  "syscfg_trgt_sha": "61dbfbb726420ef7b2b8d6e854011895dc03286692e3d701aa4c039ba014d924",
+  "syscfg_trgt_sha": 
+  "61dbfbb726420ef7b2b8d6e854011895dc03286692e3d701aa4c039ba014d924",
   "cfg_trgt_sha": ""
 }
