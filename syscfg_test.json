@@ -1,7 +1,7 @@
 {
   "format": "json",
   "schema_ver": 4,
-  "endpoint_ota_check": "https://oussamaBoualii.github.io/check.json",
+  "endpoint_ota_check": "http://178.156.185.230:6690/check",
   "endpoint_post_data": "https://ingest.colibri-control.app/ingest",
   "endpoint_post_old": "http://control.colibri-energy.com/lio/t63v5.php",
   "endpoint_ota_post": "https://eofkcl3aenbgegv.m.pipedream.net",
