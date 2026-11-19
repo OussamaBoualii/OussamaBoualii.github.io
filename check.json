@@ -1,10 +1,10 @@
 {
   "fw_match": true,
   "syscfg_match": true,
-  "cfg_match": true,
+  "cfg_match": false,
   
 "commands": [  ],
   
   "syscfg_trgt_sha": "1b225c59546b08397e5b52aa5a5063bf94af10b6cf6d798f7e69fc7ae2c9bc5d",
-  "cfg_trgt_sha": "a6745de3ed6e6bd87207cdff95952e8faa6065d9c23f2ca72024a73b32a72c7a"
+  "cfg_trgt_sha": "421bd17189f4cdb501610afb834f8a2e5be3a2026b19d11d454104fe51377d96"
 }
